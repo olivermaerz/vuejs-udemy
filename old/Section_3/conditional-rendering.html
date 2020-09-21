@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Conditional Rendering</title>
+    <script src="../../vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <p v-if="show">You can see me</p> <!-- completely removed from dom not just hidden -->
+    <p v-else>You can see me too</p>
+    <p v-show="show">You can see me 3</p> <!-- just hide it do not remove from dom -->
+    <template v-if="show">
+        <h1>Heading</h1>
+        <p>Inside Template</p>
+    </template>
+    <button @click="show = !show">Switcheroo</button>
+</div>
+
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            show: true,
+        }
+    });
+</script>
+</body>
+</html>
