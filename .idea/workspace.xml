@@ -1,7 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a108682c-7e9e-4d2c-8ad1-902ee9cd19cf" name="Default Changelist" comment="" />
+    <list default="true" id="a108682c-7e9e-4d2c-8ad1-902ee9cd19cf" name="Default Changelist" comment="Update rendering-lists.html">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-01-starting-code/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-01-starting-code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-01-starting-code/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-02-a-first-summary/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-02-a-first-summary/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-02-a-first-summary/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-03-events-starting-code/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-03-events-starting-code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-03-events-starting-code/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-04-events-methods/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-04-events-methods/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-04-events-methods/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-05-using-the-native-event-object/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-05-using-the-native-event-object/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-05-using-the-native-event-object/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-06-two-way-binding/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-06-two-way-binding/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-06-two-way-binding/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-07-introducing-computed-properties/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-07-introducing-computed-properties/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-07-introducing-computed-properties/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-08-working-with-watchers/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-08-working-with-watchers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-08-working-with-watchers/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-09-v-bind-v-for-shorthands/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-09-v-bind-v-for-shorthands/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-09-v-bind-v-for-shorthands/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-10-styling-starting-setup/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-10-styling-starting-setup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-10-styling-starting-setup/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-11-dynamic-styling-inline-styles/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-11-dynamic-styling-inline-styles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-11-dynamic-styling-inline-styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-12-adding-css-classes-dynamically/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-12-adding-css-classes-dynamically/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-12-adding-css-classes-dynamically/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-13-dynamic-classes-array-syntax/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-13-dynamic-classes-array-syntax/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics-13-dynamic-classes-array-syntax/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-01-starting-setup/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-01-starting-setup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-01-starting-setup/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-02-v-if-v-else-v-else-if/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-02-v-if-v-else-v-else-if/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-02-v-if-v-else-v-else-if/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-03-rendering-lists-of-data/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-03-rendering-lists-of-data/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-03-rendering-lists-of-data/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-04-diving-deeper-into-v-for/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-04-diving-deeper-into-v-for/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-04-diving-deeper-into-v-for/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-05-removing-list-items/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-05-removing-list-items/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-05-removing-list-items/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-06-lists-keys/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-06-lists-keys/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists-cond-06-lists-keys/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prj-monster-06-adding-a-battle-log/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prj-monster-06-adding-a-battle-log/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prj-monster-06-adding-a-battle-log/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/2waybinding.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/2waybinding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/Exercise 1/how-to-use.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/Exercise 1/how-to-use.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/Exercise 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/Exercise 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/Exercise 2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/Exercise 2/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/Exercise 2/how-to-use.txt" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/Exercise 2/how-to-use.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/Exercise 2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/Exercise 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/computed-watch.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/computed-watch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/counter.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/counter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/dynamic-styling.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/dynamic-styling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/helloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/helloworld2.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/helloworld2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_1-2/helloworld3.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_1-2/helloworld3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_3/conditional-rendering.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_3/conditional-rendering.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_3/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_3/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_3/rendering-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/old/Section_3/rendering-lists.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +109,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hklseEALi75DJQHjicfJs7FnGU" />
   <component name="ProjectViewState">
@@ -27,13 +126,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Section_1-2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Section_3" />
       <recent name="$PROJECT_DIR$/Section_1-2" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/old" />
+      <recent name="$PROJECT_DIR$/Section_1-2" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.counter.html">
@@ -60,11 +160,37 @@
       <updated>1600563179897</updated>
       <workItem from="1600563181447" duration="11907000" />
       <workItem from="1600609679916" duration="4244000" />
+      <workItem from="1600648150904" duration="93000" />
+      <workItem from="1600716663214" duration="1789000" />
     </task>
+    <task id="LOCAL-00001" summary="Update rendering-lists.html">
+      <created>1600648179622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600648179622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update rendering-lists.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update rendering-lists.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="1278" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600563457553">
@@ -135,6 +261,10 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1899" height="356" key="GridCell.Tab.3.right/1920.0.3840.2160/0.1080.1920.1080@0.1080.1920.1080" timestamp="1600576649719" />
+    <state x="2323" y="300" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1600648218113">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2323" y="300" width="800" height="526" key="Vcs.Push.Dialog.v2/1920.0.3840.2160/0.1080.1920.1080@1920.0.3840.2160" timestamp="1600648218113" />
     <state x="623" y="1319" key="search.everywhere.popup" timestamp="1600564037281">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
